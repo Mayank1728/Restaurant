@@ -1,0 +1,44 @@
+body {
+  font-family: "Nunito", sans-serif;
+  color: gray;
+  margin: 0 auto;
+  text-align: center;
+  background: #100201;
+  max-width: 95%;
+}
+
+h1 {
+  font-family: "Pacifico", cursive;
+  font-size: 3.5rem;
+  margin-bottom: 15px;
+}
+img {
+  max-width: 75%;
+  object-fit: cover;
+}
+a {
+  text-decoration: none;
+  font-size: 30px;
+  color: lightsalmon;
+}
+a:hover {
+  color: lightskyblue;
+  font-size: 37px;
+  font-weight: bold;
+}
+nav {
+  display: flex;
+  justify-content: space-evenly;
+}
+.special {
+  font-size: 50px;
+}
+
+.menu {
+  font-size: 100px;
+}
+
+.items {
+  text-align: center;
+  font-size: 30px;
+}
